@@ -109,7 +109,8 @@ margin-left: 228px;
 
 input{
 max-height:39px;
-border: 1px solid rgba(49, 59, 67, 0.2);
+background: #F3F5F0;
+border: none;
 }
 
 .name{
