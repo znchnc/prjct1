@@ -201,5 +201,8 @@ line-height: 24px;
   padding: 0 15px 0 15px;
 }
 
-button:active, button:focus {
-  outline: none !important;
+button{
+  background: #F3F5F0;
+  border: none;
+}
+
